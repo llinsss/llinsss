@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @llinsss
-- 👀 I’m interested in ...javascript,Node,SQL,CairoLang,OpenSource contribution
+- 👀 I’m interested in ...javascript,SQL,CairoLang,OpenSource 
 - 🌱 I’m currently learning ...Data analysis using R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...llinsomoudu@gmail.com
